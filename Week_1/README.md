@@ -81,16 +81,6 @@ The project followed the following analytical workflow:
 
 **Business Understanding → Data Inspection → Data Cleaning → Exploratory Data Analysis → Descriptive Statistics → Outlier Analysis → Pivot Table Analysis → Data Visualization → Dashboard Development → Insights → Risks & Opportunities → Business Recommendations**
 
-# 1. Business Understanding
-
-Before analyzing the dataset, research was conducted to understand the business problem of customer churn in the telecommunications industry.
-
-A **3 page Business Understanding Report** was prepared using WPS Office.
-
-The report provided background information about customer churn, its potential impact on telecommunications businesses, and the importance of customer retention.
-
-The business understanding stage helped establish the context for the analysis and identify the key questions that the data needed to answer.
-
 ### Business Focus
 
 The analysis focused on:
@@ -104,7 +94,7 @@ The analysis focused on:
 - Payment methods
 - Customer behavior
 
-# 2. Data Loading and Inspection
+# 1. Data Loading and Inspection
 
 The dataset was initially inspected to understand its structure and identify potential data quality issues.
 
@@ -122,7 +112,7 @@ The inspection covered:
 
 This stage helped establish the overall quality and structure of the dataset before analysis.
 
-# 3. Data Cleaning
+# 2. Data Cleaning
 
 The raw dataset was cleaned and prepared for analysis using Power Query.
 
@@ -138,7 +128,9 @@ Data cleaning activities included:
 
 The objective of the cleaning process was to ensure that the dataset was consistent, reliable, and suitable for further analysis.
 
-# 4. Exploratory Data Analysis
+[View Cleaned Data Screenshot](./Screenshot/01_Cleaned_Dataset.png)
+
+# 3. Exploratory Data Analysis
 
 Exploratory Data Analysis (EDA) was performed to understand the characteristics of the customer base and identify patterns related to churn.
 
@@ -154,7 +146,7 @@ The analysis examined customer characteristics and business variables including:
 
 Different analytical techniques and visualizations were used to identify relationships and patterns within the data.
 
-# 5. Outlier Analysis
+# 4. Outlier Analysis
 
 Outlier analysis was performed using Microsoft Excel to identify unusually high or low observations within relevant numerical variables.
 
@@ -168,7 +160,9 @@ The purpose of this analysis was to:
 
 The identified outliers were reviewed to determine whether they represented genuine customer behavior or potential data issues.
 
-# 6. Descriptive Statistics
+[View Outliers Screenshot](./Screenshot/02_Outliers.png)
+
+# 5. Descriptive Statistics
 
 Descriptive statistics were calculated to summarize the numerical characteristics of the dataset.
 
@@ -190,7 +184,9 @@ The analysis included relevant statistical measures such as:
 
 These statistics helped provide an overall understanding of the customer data and its distribution.
 
-# 7. Pivot Table Analysis
+[View Statistics Screenshot](./Screenshot/03_Statistics.png)
+
+# 6. Pivot Table Analysis
 
 Microsoft Excel Pivot Tables were used to summarize and analyze the dataset from different perspectives.
 
@@ -209,7 +205,9 @@ Examples of analysis included examining churn across:
 
 Pivot Table analysis provided a structured way to summarize large amounts of customer data and identify important patterns.
 
-# 8. Dashboard Development
+[View Pivot Table Screenshot](./Screenshot/04_Pivot_Table.png)
+
+# 7. Dashboard Development
 
 An interactive business dashboard was developed using **Microsoft Power BI**.
 
@@ -231,49 +229,15 @@ The dashboard includes relevant visual elements such as:
 
 The dashboard allows users to explore the data and identify customer groups that may require additional attention.
 
-# 9. Key Insights and Observations
+[View Dashboard Screenshot](./Screenshot/05_Dashboard.png)
 
-The analysis generated several important insights about customer churn.
+# 8. Key Insights, business risks, Opportunities and recommendations
 
-### Insight 1
-**[Insert your first key insight here.]**
-
-These findings provide a better understanding of the characteristics and behaviors associated with customer churn.
-
-# 11. Business Risks
-
-Based on the analysis, the following business risks were identified:
-
-### Risk 1
-**[Insert business risk 1.]**
-
-These risks highlight areas where continued customer churn could negatively affect customer retention, revenue, and long-term business performance.
-
-# 12. Business Opportunities
-
-The analysis also identified opportunities that management could explore to improve customer retention and business performance.
-
-### Opportunity 1
-**[Insert business opportunity 1.]**
-
-These opportunities provide potential areas for targeted customer retention initiatives and service improvements.
-
-# 13. Business Recommendations
-
-Based on the findings from the analysis, the following recommendations were developed:
-
-### Recommendation 1
-**[Insert actionable recommendation 1.]**
-
-The recommendations are intended to help management reduce customer churn, improve customer retention, strengthen customer relationships, and support sustainable business growth.
+The analysis generated several important insights, risks, opportunities and recommendations. 
 
 # 14. Deliverables
 
 The project produced the following deliverables:
-
-### Business Understanding Report
-
-A 3 page report researching customer churn and establishing the business context for the analysis.
 
 ### Excel Analysis Workbook
 
@@ -289,7 +253,7 @@ The Excel workbook contains the data analysis performed during the project, incl
 
 An interactive Power BI dashboard was developed to present the major findings from the analysis.
 
-### Data Inspection Report
+### Dataset Inspection Report
 
 The dataset was inspected for:
 
@@ -299,6 +263,10 @@ The dataset was inspected for:
 - Data types
 - Summary statistics
 - Data quality issues
+- 
+### Business Analytics Report
+
+A 2 page report on customer churn, establishing the business context for the analysis and recommendations for future implementation.
 
 ### Business Findings
 
@@ -312,10 +280,6 @@ The project includes:
 # Tools and Technologies
 
 The following tools were used throughout the project:
-
-### WPS Office
-
-Used for preparing the Business Understanding Report.
 
 ### Microsoft Excel
 
@@ -336,6 +300,13 @@ Used for:
 - Data visualization
 - Interactive analysis
 - Business reporting
+
+## Microsoft Word
+
+Used for:
+
+- Business analytics report
+- Dataset inspection report
 
 # Skills Demonstrated
 
@@ -380,17 +351,17 @@ Through this project, I strengthened my ability to:
 
 The project includes visual documentation of the analysis and dashboard.
 
-## Data Analysis
+## Dataset
 
-*Screenshots of the Excel analysis will be added here.*
+[View Cleaned Dataset Screenshot](./Screenshot/01_Cleaned_Dataset.png)
 
 ## Pivot Table Analysis
 
-*Pivot Table screenshots will be added here.*
+[View Pivot Table Screenshot](./Screenshot/04_Pivot_Table.png)
 
 ## Power BI Dashboard
 
-*Power BI dashboard screenshot will be added here.*
+[View Dashboard Screenshot](./Screenshot/05_Dashboard.png)
 
 # Project Files
 
