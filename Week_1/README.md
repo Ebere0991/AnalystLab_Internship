@@ -81,7 +81,7 @@ The project followed the following analytical workflow:
 
 **Business Analytics → Data Inspection → Data Cleaning → Exploratory Data Analysis → Descriptive Statistics → Outlier Analysis → Pivot Table Analysis → Data Visualization → Dashboard Development → Insights → Risks & Opportunities → Business Recommendations**
 
-[Excel workbook](./01_Customer_Churn_Analysis.xlsx)
+[Excel workbook](./Customer_Churn_Analysis.xlsx)
 
 [Business Analytics Report](./Business_Analytics_Report.pdf)
 
