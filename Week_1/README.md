@@ -79,7 +79,15 @@ These questions guided the data exploration, analysis, visualization, and recomm
 
 The project followed the following analytical workflow:
 
-**Business Understanding → Data Inspection → Data Cleaning → Exploratory Data Analysis → Descriptive Statistics → Outlier Analysis → Pivot Table Analysis → Data Visualization → Dashboard Development → Insights → Risks & Opportunities → Business Recommendations**
+**Business Analytics → Data Inspection → Data Cleaning → Exploratory Data Analysis → Descriptive Statistics → Outlier Analysis → Pivot Table Analysis → Data Visualization → Dashboard Development → Insights → Risks & Opportunities → Business Recommendations**
+
+[View Excel workbook](./Excel_Workbook/01_Customer_Churn_Analysis.xlsx)
+
+[View Business Analytics Report](./Business_Analytics_Report/Business_Analytics_Report.pdf)
+
+[View Dataset Inspection Report](./Dataset_Inspection_Report/Dataset_Inspection_Report.pdf)
+
+[View PowerBI Dashboard](./PowerBI_Dashboard/Customer_Churn_Dashboard.pbix)
 
 ### Business Focus
 
