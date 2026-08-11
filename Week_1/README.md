@@ -81,13 +81,13 @@ The project followed the following analytical workflow:
 
 **Business Analytics → Data Inspection → Data Cleaning → Exploratory Data Analysis → Descriptive Statistics → Outlier Analysis → Pivot Table Analysis → Data Visualization → Dashboard Development → Insights → Risks & Opportunities → Business Recommendations**
 
-[View Excel workbook](./Excel_Workbook/01_Customer_Churn_Analysis.xlsx)
+[Excel workbook](./01_Customer_Churn_Analysis.xlsx)
 
-[View Business Analytics Report](./Business_Analytics_Report/Business_Analytics_Report.pdf)
+[Business Analytics Report](./Business_Analytics_Report.pdf)
 
-[View Dataset Inspection Report](./Dataset_Inspection_Report/Dataset_Inspection_Report.pdf)
+[Dataset Inspection Report](./Dataset_Inspection_Report.pdf)
 
-[View PowerBI Dashboard](./PowerBI_Dashboard/Customer_Churn_Dashboard.pbix)
+[PowerBI Dashboard](./Customer_Churn_Dashboard.pbix)
 
 ### Business Focus
 
@@ -136,7 +136,7 @@ Data cleaning activities included:
 
 The objective of the cleaning process was to ensure that the dataset was consistent, reliable, and suitable for further analysis.
 
-[View Cleaned Data Screenshot](./Screenshot/01_Cleaned_Dataset.png)
+[Cleaned Data Screenshot](./01_Cleaned_Dataset.png)
 
 # 3. Exploratory Data Analysis
 
@@ -168,7 +168,7 @@ The purpose of this analysis was to:
 
 The identified outliers were reviewed to determine whether they represented genuine customer behavior or potential data issues.
 
-[View Outliers Screenshot](./Screenshot/02_Outliers.png)
+[Outlier Screenshot](./02_Outliers.png)
 
 # 5. Descriptive Statistics
 
@@ -192,7 +192,7 @@ The analysis included relevant statistical measures such as:
 
 These statistics helped provide an overall understanding of the customer data and its distribution.
 
-[View Statistics Screenshot](./Screenshot/03_Statistics.png)
+[Statistics Screenshot](./03_Statistics.png)
 
 # 6. Pivot Table Analysis
 
@@ -213,7 +213,7 @@ Examples of analysis included examining churn across:
 
 Pivot Table analysis provided a structured way to summarize large amounts of customer data and identify important patterns.
 
-[View Pivot Table Screenshot](./Screenshot/04_Pivot_Table.png)
+[Pivot Table Screenshot](./04_Pivot_Table.png)
 
 # 7. Dashboard Development
 
@@ -237,7 +237,7 @@ The dashboard includes relevant visual elements such as:
 
 The dashboard allows users to explore the data and identify customer groups that may require additional attention.
 
-[View Dashboard Screenshot](./Screenshot/05_Dashboard.png)
+[Dashboard Screenshot](./05_Dashboard.png)
 
 # 8. Key Insights, business risks, Opportunities and recommendations
 
@@ -361,15 +361,15 @@ The project includes visual documentation of the analysis and dashboard.
 
 ## Dataset
 
-[View Cleaned Dataset Screenshot](./Screenshot/01_Cleaned_Dataset.png)
+[Cleaned Dataset Screenshot](./01_Cleaned_Dataset.png)
 
 ## Pivot Table Analysis
 
-[View Pivot Table Screenshot](./Screenshot/04_Pivot_Table.png)
+[Pivot Table Screenshot](./04_Pivot_Table.png)
 
 ## Power BI Dashboard
 
-[View Dashboard Screenshot](./Screenshot/05_Dashboard.png)
+[Dashboard Screenshot](./05_Dashboard.png)
 
 # Project Files
 
