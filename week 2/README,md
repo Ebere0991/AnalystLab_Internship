@@ -105,11 +105,11 @@ The dashboards were designed to allow users to explore performance across differ
 
 #### Executive Performance Summary
 
-![Executive Performance Summary](./Screenshots/01_Executive_Performance_Summary.png)
+[Executive Performance Summary Dashboard](./03_Executive_Performance_Summary_Dashboard.png)
 
 #### Product, Profitability & Cost Analysis
 
-![Product, Profitability & Cost Analysis](./Screenshots/02_Product_Profitability_Cost_Analysis.png)
+![Product, Profitability & Cost Analysis Dashboard](./02_Product_Profitability_and_Cost_Analysis_Dashboard.png)
 
 ## 6. Key Findings
 
@@ -134,7 +134,7 @@ The findings indicate that business performance is concentrated around specific 
 The following project files and supporting materials are included in this Week 2 folder:
 
 - [Business Intelligence Overview Report](./Business_Intelligence_Overview_Report.pdf)
-- [Power BI Dashboard File](./Global_Sales_Business_Performance.pbix)
+- [Power BI Dashboard File](./Global_Superstore_Dataset.pbix)
 - [Dashboard Screenshots](./Screenshots)
 - [Executive Summary Report](./Executive_Summary_Report.pdf)
 
@@ -159,4 +159,3 @@ This project demonstrated the process of transforming raw business data into mea
 **Chidiebere Lilian Ebulue**
 
 AnalystLab Africa  
-AnalystLab Africa
